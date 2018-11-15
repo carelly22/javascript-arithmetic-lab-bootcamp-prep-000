@@ -23,4 +23,3 @@ fucntion dec(n) {
   n -= 1
   return n
 }
-
