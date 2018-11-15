@@ -18,3 +18,9 @@ function inc(n) {
   n += 1
   return n
 }
+
+fucntion dec(n) {
+  n -= 1
+  return n
+}
+
